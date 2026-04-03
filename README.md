@@ -136,31 +136,4 @@ Shows how far each executive is from fully achieving their target — lower is b
 
 ---
 
-## How to Use
 
-1. Open the `.pbix` file in Power BI Desktop.
-2. Use the **city slicer** at the top to filter by region.
-3. Use the **Dboard checkboxes** to toggle individual panels.
-4. Hover over charts for exact values and tooltips.
-5. Publish to Power BI Service for team-wide access and scheduled refresh.
-
----
-
-## File Structure
-
-```
-sales-dashboard/
-├── README.md                  ← This file
-├── SalesDashboard.pbix        ← Power BI report file
-├── data/
-│   └── sales_data.xlsx        ← Source data
-└── screenshots/
-    └── dashboard_overview.png ← Dashboard preview
-```
-
----
-
-## Author
-
-> Built for internal sales performance tracking and executive review.  
-> For queries, contact the Data Analytics team.
