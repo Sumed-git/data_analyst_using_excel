@@ -3,9 +3,14 @@
 
 ## Overview
 
-This Power BI dashboard provides a comprehensive view of **Sales Executive performance** across multiple Indian cities. It tracks total sales figures, target achievement rates, and the gap between actuals and targets — enabling quick identification of top performers and underperformers.
+This EXCEL dashboard provides a comprehensive view of **Sales Executive performance** across multiple Indian cities. It tracks total sales figures, target achievement rates, and the gap between actuals and targets — enabling quick identification of top performers and underperformers.
 
 ---
+
+## Dashboard Screenshot
+
+
+![Dashboard Overview](Dashboard.png)
 
 ## Dashboard Structure
 
